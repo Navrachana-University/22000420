@@ -1,3 +1,6 @@
+# Gujarati Compiler Made by Vatsa Joshi (22000420)
+## Compiler that performs Retokenisation, Lexical Analysis, Parsing, TAC code generation and Assembly code generation. Made for Compiler Designer Coursework Project
+
 ### Command to run:
 ```
 flex flex.l
